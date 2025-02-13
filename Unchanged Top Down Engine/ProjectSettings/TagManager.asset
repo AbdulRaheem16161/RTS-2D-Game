@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LevelBounds
+  - FX
+  - Enemy
+  - World
+  - NoMask
+  - point to follow
+  - point to follow collider minion
+  - point to follow collider boss
+  - point to follow collider
+  - Projectile
+  - point to follow SW 2
+  - point to follow SW 3
+  - SW 2
+  - SW 3
+  - point to follow SW 2 for SwordWrath
+  - point to follow SW 3 for SwordWrath
+  - point to follow SW 2 for Gunner
+  - point to follow SW 3 for Gunner
+  - PointToBeShot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - SW 2
+  - SW 3
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - ShootingLayer SW 2
+  - Running Sound SW 2
+  - Default Walk Sound SW 2
+  - ShootingLayer SW 3
+  - Running Sound SW 3
+  - Default Walk Sound SW 3
+  - Point To Follow SW 2 Gunner
+  - Point To Follow SW 2 SwordWrath
+  - Point To Follow SW 3 Gunner
+  - Point To Follow SW 3 SwordWrath
+  - Wall
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1798043625
+    locked: 0
+  - name: Ground
+    uniqueID: 2296623839
+    locked: 0
+  - name: Foreground
+    uniqueID: 1603220759
+    locked: 0
+  - name: Characters
+    uniqueID: 47421343
+    locked: 0
+  - name: Above
+    uniqueID: 961700441
+    locked: 0
